@@ -1,0 +1,12 @@
+{
+  "name": "bluetooth-autoswitch",
+  "version": "1.0.0",
+  "description": "Habilita aptX y cambio automático de fuente al conectar Bluetooth en x86",
+  "main": "index.js",
+  "author": "Tomifl",
+  "volumio_info": {
+    "prettyName": "Bluetooth Auto-Switch & aptX",
+    "icon": "fa-bluetooth",
+    "is_driver": true
+  }
+}
